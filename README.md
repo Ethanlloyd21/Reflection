@@ -36,5 +36,5 @@ Spencer and the TA’s are very helpful at this bootcamp. I will continue to see
 
 * 5.	How do these plans and goals differ from the first half of the course?
 
-I thought having a good code or building a nice website was enough, I did not know that the Interview part is a whole new skill that I needed to practice/ learn. 
+I thought having a good well built website as a project was enough, I did not know that the Interview part was a whole new skill that I needed to practice and learn. 
 
